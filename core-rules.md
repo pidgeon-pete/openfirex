@@ -446,49 +446,45 @@ Once the final round of the Battle Stage is complete players then determine the 
 
 Models with the **Vehicle** special rule are subject to a few changes to how they move as they are less maneuverable than infantry or walking vehicles.
 
-**Restrictions**
+**Restrictions**  
 Vehicles are not permitted to make Dash or Assault actions. Vehicles may not climb on climbable terrain.
 
-**Forward and Backward**
-All vehicles have a forward and an opposite backward direction. Where this is not obvious from the model you should mark or identify this for your opponent.
+**Forward and Backward**  
+All vehicles have a forward and an opposite backward direction. Where this is not obvious from the model you should mark or identify this for your opponent. When a vehicle moves it must always move forward or backward.
 
-When a vehicle moves it must always move forward or backward.
-
-**Speed**
+**Speed**  
 Vehicles are able to move at three different speeds: **Slow**, **Combat** and **Fast**. At Slow Speed the vehicle moves up to its normal Movement Rate, at Combat Speed it moves up to twice its Movement Rate, and at Fast Speed it moves at three times its Movement Rate.
 
-**Pivoting**
+**Pivoting**  
 Whereas most models can change direction freely when moving but vehicles are limited by the speed that they are travelling at.
 
-A model moving at Slow Speed may make up to 4 turns of up to 45 degree turns. These turns may be taken consecutively to turn up to a maximum of 270 degrees.
+- A model moving at Slow Speed may make up to 4 turns of up to 45 degree turns. These turns may be taken consecutively to turn up to a maximum of 270 degrees.
+- A model moving at Combat Speed may make 2 turns of up to 45 degrees which may be taken consecutively to turn up to a maximum of 90 degrees. A model must move Forward or Backward at Combat Speed but not both in the same action.
+- A model moving at Fast Speed may only make 1 turn of up to 45 degrees at any point during its movement. A model may only move Forward at Fast Speed.
 
-A model moving at Combat Speed may make 2 turns of up to 45 degrees which may be taken consecutively to turn up to a maximum of 90 degrees. A model must move Forward or Backward at Combat Speed but not both in the same action.
-
-A model moving at Fast Speed may only make 1 turn of up to 45 degrees at any point during its movement. A model may only move Forward at Fast Speed.
-
-**Terrain**
+**Terrain**  
 Vehicles moving through Slow terrain deduct 2 inches from their movement rate before multiplying it for their speed. So a vehicle moving at Combat Speed will reduce their total movement by 4 and by 6 if moving at Fast Speed.
 
 If any part of a vehicles movement covers Rough terrain it must immediately take a Defence Test, if it fails it loses 1 Hit Point.
 
-**Assault**
+**Assault**  
 Vehicles may freely move into or out of the assault range of an enemy unit during an Advance action and enemy units may not take a free Attack action when it leaves their assault range.
 
 ### Transports
 
 Models with the Transport (X) special rule can use the following rules that allow them to carry other models across the battlefield. The value of X indicates how many models may be carried by a transport, known as its transport limit. A transport may only be used by friendly models.
 
-**Allowed Models**
+**Allowed Models**  
 A model with the Transport (X) special rule may only carry other models with a size of 1 or 2. A model of size 1 counts as one model being carried while a model of size 2 counts as 2. A transport may carry multiple units so long as it can accommodate every model in each unit.
 
-**Embarking and Disembarking**
+**Embarking and Disembarking**  
 A unit may not embark and disembark a transport during the same activation. A unit may only embark or disembark during its own activation.
 
 In order to embark on a transport a unit leader must make an Advance action to move within 3 inches of the transport (it must take this action even if it is already within 3 inches). While a unit is embarked on a transport, place the models somewhere off the battlefield. Any suppression tokens a unit had when it embarks on a transport are discarded.
 
 When a unit disembark (gets out) from a transport the leader is placed within 1 inch of the transport and must then make an Advance Action, placing the rest of the models from the unit as normal after the Advance Action. A unit may not be placed in assault range of any enemy models, if this is not possible the unit may not disembark.
 
-**Destroyed Transports**
+**Destroyed Transports**  
 If a unit is embarked on a transport when it is destroyed the unit leader is placed within 1 inch of the transport before it is removed, with the rest of the unit placed in formation. Any model which cannot be placed in formation, or that must be placed within the assault range of an enemy model is removed as a casualt. If the leader cannot be placed then the entire unit is removed as a casualty. In addition the unit takes 2 suppression tokens.
 
 ### Aircraft
@@ -501,51 +497,51 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 
 ### Unit Special Rules
 
-**Fear**
+**Fear**  
 Models within 6 inches of a model with this rule suffer a -3 to their Command  attribute.
 
-**Fearless**
+**Fearless**  
 Units with the Fearless rule may re-roll any Command Test.
 
-**Flying**
+**Flying**  
 Models with the Flying rule are not affected by terrain when they move.
 
-**Heavy Armour (X)**
+**Heavy Armour (X)**  
 Models with the Heavy Armour (X) rule reduce the Damage and Piercing value of attacks made against it by X. The Damage value cannot be reduced below 1 and the Piercing value cannot be reduced below 0.
 
-**Rugged**
+**Rugged**  
 This model ignores the penalty for travelling through **slow** terrain.
 
-**Scout**
+**Scout**  
 Units with the Scout rule may be set up in the Deploy Scouts step of the Setup Stage following the rules for setting up scouts.
 
-**Stealth (X)**
+**Stealth (X)**  
 When targeting a unit with the Stealth rule you suffer a -X modifier to your Battle Skill Test.
 
-**Transport (X)**
+**Transport (X)**  
 Models with the Transport rule may transport up to X models following the advanced rules for Transports.
 
-**Vehicle**
+**Vehicle**  
 Models with the Vehicle rule follow the advanced rules for Vehicles.
 
-**Walker**
+**Walker**  
 Models with the Walker rule cannot climb on any climbable terrain.
 
 ### Weapon Special Rules
 
-**Accurate**
+**Accurate**  
 Attacks from this weapon ignore the -3 modifier for an obstructed line of sight.
 
-**Blast**
+**Blast**  
 Attacks from this weapon ignore the rules for light or heavy cover.
 
-**Impact**
+**Impact**  
 A unit may make a free attack action with this weapon after completing an Assault action. This attack may only target a unit within assault range.
 
-**Longshot**
+**Longshot**  
 This weapon may make an attack at up to twice its maximum range but it's Attacks attribute is reduced to 1 and the Battle Skill test suffers a -1 modifier.
 
-**Suppressing**
+**Suppressing**  
 If an attack from this weapon hits a unit it automatically takes a suppression token, up to a maximum of 2. This does not count as the target unit evading the attack.
 
 ### Section 4 - Starter Module
