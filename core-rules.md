@@ -10,29 +10,6 @@ The core rules are open source, licensed under the Creative Commons Attribution 
 
 Find out more: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-## Contents
-
-**[Section 1 - Core Rules](#section-1---core-rules)**  
-[Getting Started](#getting-started)  
-[Models and Units](#models-and-units)  
-[Dice and Measuring](#dice-and-measuring)  
-[Moving and Attacking](#moving-and-attacking)  
-[Terrain](#terrain)  
-[Making Attacks](#making-attacks)
-
-**[Section 2 - Game Structure](#section-2---game-structure)**  
-[Overview of a Game](#overview-of-a-game)  
-[Setup Stage](#setup-stage)  
-[Battle Stage](#battle-stage)  
-[Actions](#actions)  
-[Aftermath Stage](#aftermath-stage)
-
-**[Section 3 - Advanced Rules](#section-3---advanced-rules)**  
-[Vehicles](#vehicles)  
-[Special Rules](#special-rules)
-
-**Section 4 - Starter Module** (to be added)
-
 # Section 1 - Core Rules
 
 ## Getting Started
