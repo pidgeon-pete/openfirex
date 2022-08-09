@@ -370,7 +370,9 @@ If a unit is within the **Assault Range** of an enemy unit and wishes to move ou
 A unit that wishes to attack an enemy unit must follow the attack procedure outlined below:
 
 **Choose Target and Weapons**
-The first step in making an attack is choosing which unit or units you wish to attack. If your unit is in assault range with one or more enemy units you may only choose to attack those units and may only use weapons with the **Melee** special rule.
+The first step in making an attack is choosing which unit or units you wish to attack. If your unit is in assault range with one or more enemy units you may only choose to attack those units and may only use weapons with the **Melee** special rule. All units are assumed to be able to make a basic attack in close combat, if they are not equipped with a weapon with the **Melee** special rule they can attack with the following weapon:
+
+Basic melee attack [RNG 1] [ATT 1] [DMG 1] [PRC 0] [Special: Melee]
 
 Determine which weapon each model will make an attack with and which units will be attacked, you may choose to target different units with each model in a unit. A model may only use one weapon during an attack, if it is equipped with more than one you may choose which to use.
 
