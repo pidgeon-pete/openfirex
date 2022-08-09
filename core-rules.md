@@ -447,25 +447,16 @@ Once the final round of the Battle Stage is complete players then determine the 
 Models with the **Vehicle** special rule are subject to a few changes to how they move as they are less maneuverable than infantry or walking vehicles.
 
 **Restrictions**  
-Vehicles are not permitted to make Dash or Assault actions. Vehicles may not climb on climbable terrain.
+Vehicles may not climb on climbable terrain and may only ascend or descend from terrain levels if they have the fly keyword.
 
-**Forward and Backward**  
-All vehicles have a forward and an opposite backward direction. Where this is not obvious from the model you should mark or identify this for your opponent. When a vehicle moves it must always move forward or backward.
+**Vehicle Facing**  
+Vehicles have a **forward** and **backward** direction based on the direction the model is facing. If this direction is not clear it should be marked on the base or agreed with your opponent.
 
-**Speed**  
-Vehicles are able to move at three different speeds: **Slow**, **Combat** and **Fast**. At Slow Speed the vehicle moves up to its normal Movement Rate, at Combat Speed it moves up to twice its Movement Rate, and at Fast Speed it moves at three times its Movement Rate.
-
-**Pivoting**  
-Whereas most models can change direction freely when moving but vehicles are limited by the speed that they are travelling at.
-
-- A model moving at Slow Speed may make up to 4 turns of up to 45 degree turns. These turns may be taken consecutively to turn up to a maximum of 270 degrees.
-- A model moving at Combat Speed may make 2 turns of up to 45 degrees which may be taken consecutively to turn up to a maximum of 90 degrees. A model must move Forward or Backward at Combat Speed but not both in the same action.
-- A model moving at Fast Speed may only make 1 turn of up to 45 degrees at any point during its movement. A model may only move Forward at Fast Speed.
+**Moving**
+Vehicles must always move forward or backward, but not both in the same action. Vehicles move in straight lines and may not pivot freely, instead they can make one free 45 degree turn during their activation, and may make a second 45 degree turn at the cost of 2 inches of their movement. This applies to the units entire activation, not just to a single movement action.
 
 **Terrain**  
-Vehicles moving through Slow terrain deduct 2 inches from their movement rate before multiplying it for their speed. So a vehicle moving at Combat Speed will reduce their total movement by 4 and by 6 if moving at Fast Speed.
-
-If any part of a vehicles movement covers Rough terrain it must immediately take a Defence Test, if it fails it loses 1 Hit Point.
+Vehicles making any move action through **Slow** terrain deduct 2 inches from their remaining allowed movement. If this is less than they have remaining they stop in contact with the **Slow** terrain.
 
 **Assault**  
 Vehicles may freely move into or out of the assault range of an enemy unit during an Advance action and enemy units may not take a free Attack action when it leaves their assault range.
