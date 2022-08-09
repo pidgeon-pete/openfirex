@@ -435,8 +435,8 @@ Vehicles must always move forward or backward, but not both in the same action. 
 **Terrain**  
 Vehicles making any move action through **Slow** terrain deduct 2 inches from their remaining allowed movement. If this is less than they have remaining they stop in contact with the **Slow** terrain.
 
-**Assault**  
-Vehicles may freely move into or out of the assault range of an enemy unit during an Advance action and enemy units may not take a free Attack action when it leaves their assault range.
+**Attack Action**
+Vehicles do not get to make a free attack action against units that leave their **Assault Range**.
 
 ### Transports
 
@@ -446,11 +446,11 @@ Models with the Transport (X) special rule can use the following rules that allo
 A model with the Transport (X) special rule may only carry other models with a size of 1 or 2. A model of size 1 counts as one model being carried while a model of size 2 counts as 2. A transport may carry multiple units so long as it can accommodate every model in each unit.
 
 **Embarking and Disembarking**  
-A unit may not embark and disembark a transport during the same activation. A unit may only embark or disembark during its own activation.
+A unit may not embark and disembark a transport during the same activation. A unit may only embark or disembark during its own activation. A unit may only embark on a friendly transport.
 
-In order to embark on a transport a unit leader must make an Advance action to move within 3 inches of the transport (it must take this action even if it is already within 3 inches). While a unit is embarked on a transport, place the models somewhere off the battlefield. Any suppression tokens a unit had when it embarks on a transport are discarded.
+In order to embark on a transport a unit leader must move into **Assault Range** of the transport (it must take this action even if it is already within **Assault Range** as it is moving into the vehicle). While a unit is embarked on a transport, place the models somewhere off the battlefield, if you are using a lot of transports you will need to make it clear to your opponent which units are embarked on which transports. Any suppression tokens a unit had when it embarks on a transport are discarded.
 
-When a unit disembark (gets out) from a transport the leader is placed within 1 inch of the transport and must then make an Advance Action, placing the rest of the models from the unit as normal after the Advance Action. A unit may not be placed in assault range of any enemy models, if this is not possible the unit may not disembark.
+When a unit disembark (gets out) from a transport the leader is placed in the **Assault Range** of the transport and must then make an Advance Action, placing the rest of the models from the unit as normal after the Advance Action. The leader may not be placed in **Assault Range** of an enemy unit but may move freely into one after being placed.
 
 **Destroyed Transports**  
 If a unit is embarked on a transport when it is destroyed the unit leader is placed within 1 inch of the transport before it is removed, with the rest of the unit placed in formation. Any model which cannot be placed in formation, or that must be placed within the assault range of an enemy model is removed as a casualt. If the leader cannot be placed then the entire unit is removed as a casualty. In addition the unit takes 2 suppression tokens.
@@ -504,12 +504,10 @@ Attacks from this weapon ignore the -3 modifier for an obstructed line of sight.
 Attacks from this weapon ignore the rules for light or heavy cover.
 
 **Impact**  
-A unit may make a free attack action with this weapon after completing an Assault action. This attack may only target a unit within assault range.
+A unit may make a free attack action with this weapon against a unit that it moved into **Assault Range** with this activation if it moved at least 6 inches.
 
 **Longshot**  
-This weapon may make an attack at up to twice its maximum range but it's Attacks attribute is reduced to 1 and the Battle Skill test suffers a -1 modifier.
+This weapon may make an attack at up to twice its maximum range but it's Attacks attribute is reduced to 1.
 
 **Suppressing**  
 If an attack from this weapon hits a unit it automatically takes a suppression token, up to a maximum of 2. This does not count as the target unit evading the attack.
-
-### Section 4 - Starter Module
