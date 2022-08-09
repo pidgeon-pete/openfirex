@@ -351,41 +351,21 @@ If the unit passes the Command Test with a Critical Success it loses all its sup
 
 ### Advance
 
-A unit may not take this action if it has 2 suppression tokens on it.
-
 An Advance action allows the unit to move up to its Movement Rate following the rules for moving units.
 
-A unit taking this action cannot enter the assault range of an enemy unit.
+A unit that has suppression tokens on it has its Movement Rate reduced by 2 for each token for this action.
 
-A unit that has 1 suppression token on it has its Movement Rate reduced by 2 for this action.
-
-If this unit is already within the Assault Range of an enemy unit it may take this action freely if it does not leave that unit's Assault Range.
-
-If this unit wishes to move out of the Assault Range of an enemy unit that unit may make a free Attack action against this unit. The Attack action is worked out before the unit is moved.
+If a unit is within the **Assault Range** of an enemy unit and wishes to move out of it then the enemy unit gets to make a free **Attack Action** before the unit is moved.
 
 ### Rush
 
-A unit may not take this action if it has any suppression tokens on it.
-
-A unit may not take this action if it is within the assault range of any enemy units.
-
 The unit moves following the normal rules for moving a unit but has its Movement Rate reduced by 2 for this action.
 
-A unit taking this action cannot enter the assault range of an enemy unit.
+A unit that has suppression tokens on it has its Movement Rate reduced by 2 for each token for this action.
 
-### Assault
-
-A unit may not take this action if it has any suppression tokens on it.
-
-A unit taking an assault action is closing with an enemy unit, to engage it with close quarters weapons.
-
-A unit making an assault action may move up to its Movement Rate plus 3, but must move into the engagement range of an enemy unit. If this is not possible the player must choose a different action to perform.
-
-A unit taking this action may not move out of the assault range of an enemy unit if it is already within the assault range of that enemy unit at the start of the action.
+If a unit is within the **Assault Range** of an enemy unit and wishes to move out of it then the enemy unit gets to make a free **Attack Action** before the unit is moved.
 
 ### Attack
-
-A unit may not take this action if it has 2 suppression tokens on it.
 
 A unit that wishes to attack an enemy unit must follow the attack procedure outlined below:
 
@@ -407,8 +387,8 @@ You now need to make a roll for each weapon to see if it hits its target. You wi
 
 The following modifiers apply to your battle skill test:
 
-- -3 if you have a suppression token on this unit.
 - -3 if you have an obstructed line of sight.
+- -2 for each suppression token on this unit
 
 **Make Defence Rolls**
 For each successful hit against your unit you must take a Defence test to avoid taking damage.
@@ -430,9 +410,6 @@ If a model takes damage, but is not reduced to 0, place a dice next to the model
 
 **Interact**
 Interacting is a special action that allows units to engage with interactive elements on the battlefield, this may be something as simple as securing an objective or activating a terminal. Any objects which have interaction rules will specify how they work, some will simply require the unit is within a certain range, others may require an attribute test. Either way the unit must perform the Interact action.
-
-**Unique Actions**
-Some game modules, expansions, or units may provide additional actions unique to them, unless otherwise specified the same rules apply to those actions as with these standard actions.
 
 ## Aftermath Stage
 
