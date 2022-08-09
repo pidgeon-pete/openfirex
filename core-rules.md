@@ -370,7 +370,7 @@ If a unit is within the **Assault Range** of an enemy unit and wishes to move ou
 A unit that wishes to attack an enemy unit must follow the attack procedure outlined below:
 
 **Choose Target and Weapons**
-The first step in making an attack is choosing which unit or units you wish to attack. If your unit is in assault range with one or more enemy units you may only choose to attack those units and may only use weapons with the **Melee** or **Impact** special rule.
+The first step in making an attack is choosing which unit or units you wish to attack. If your unit is in assault range with one or more enemy units you may only choose to attack those units and may only use weapons with the **Melee** special rule.
 
 Determine which weapon each model will make an attack with and which units will be attacked, you may choose to target different units with each model in a unit. A model may only use one weapon during an attack, if it is equipped with more than one you may choose which to use.
 
@@ -516,13 +516,16 @@ Attacks from this weapon ignore the rules for light or heavy cover.
 A unit may only use one weapon with this rule per activation.
 
 **Impact**  
-A unit may make a free attack action with this weapon against a unit that it moved into **Assault Range** with this activation if it moved at least 6 inches. A unit may not choose to make a normal attack with an **Impact** weapon.
+A weapon with this rule gains +1 to its **Damage Attribute** if the model moved into assault range with the enemy unit it is attacking this activation. It gains another +1 to its **Damage Attribute** for every full 6 inches it moved this turn.
 
 **Longshot**  
 This weapon may make an attack at up to twice its maximum range but it's Attacks attribute is reduced to 1.
 
 **Melee**  
 Weapons with this special rule may be used against enemy units within **Assault Range**.
+
+**Rending**  
+Weapons with this rule automatically cause 1 damage when they hit with a Critical Success before the enemy unit rolls for Defence. This is in addition to any normal damage the attack will do.
 
 **Suppressing**  
 If an attack from this weapon hits a unit it automatically takes a suppression token, up to a maximum of 2. This does not count as the target unit evading the attack.
