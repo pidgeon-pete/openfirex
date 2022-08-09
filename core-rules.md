@@ -468,6 +468,9 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 **Ambush**  
 Models with this rule may be kept off the table when players deploy their armies and scouts. Instead, starting from the second round, the player may choose this unit to activate from off the table and deploy it anywhere on the battlefield that is more than 12 inches from any enemy models.
 
+**Fast**  
+Models with this rule never have their Movement Rate modified by more than -2 in any movement action.
+
 **Fear**  
 Models within 6 inches of a model with this rule suffer a -3 to their Command  attribute.
 
