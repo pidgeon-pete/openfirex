@@ -532,3 +532,9 @@ If an attack from this weapon hits a unit it automatically takes a suppression t
 
 **Unstable**  
 When making an attack with this weapon, any rolls of a 1 cause the weapon to explode, the model with this weapon is removed as a casualty.
+
+**Torrent**  
+Weapons with this rule gain +2 to the **Battle Skill Test** when making an attack.
+
+**Unwieldy**  
+Weapons with this rule suffer -2 to the **Battle Skill Test** when making an attack.
