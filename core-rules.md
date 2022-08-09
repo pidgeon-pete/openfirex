@@ -370,7 +370,7 @@ If a unit is within the **Assault Range** of an enemy unit and wishes to move ou
 A unit that wishes to attack an enemy unit must follow the attack procedure outlined below:
 
 **Choose Target and Weapons**
-The first step in making an attack is choosing which unit or units you wish to attack. If your unit is in assault range with one or more enemy units you may only choose to attack those units and may only use weapons with a maximum range of 1.
+The first step in making an attack is choosing which unit or units you wish to attack. If your unit is in assault range with one or more enemy units you may only choose to attack those units and may only use weapons with the **Melee** or **Impact** special rule.
 
 Determine which weapon each model will make an attack with and which units will be attacked, you may choose to target different units with each model in a unit. A model may only use one weapon during an attack, if it is equipped with more than one you may choose which to use.
 
@@ -465,6 +465,9 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 
 ### Unit Special Rules
 
+**Ambush**  
+Models with this rule may be kept off the table when players deploy their armies and scouts. Instead, starting from the second round, the player may choose this unit to activate from off the table and deploy it anywhere on the battlefield that is more than 12 inches from any enemy models.
+
 **Fear**  
 Models within 6 inches of a model with this rule suffer a -3 to their Command  attribute.
 
@@ -476,6 +479,12 @@ Models with the Flying rule are not affected by terrain when they move.
 
 **Heavy Armour (X)**  
 Models with the Heavy Armour (X) rule reduce the Damage and Piercing value of attacks made against it by X. The Damage value cannot be reduced below 1 and the Piercing value cannot be reduced below 0.
+
+**Jump**  
+A model with the Jump rule may ignore intervening terrain when moving and may be placed at any elevation level.
+
+**Medic**
+At the end of its activation, if this unit has a model that has lost hit points it regains 3 hit points, up to its original value.
 
 **Rugged**  
 This model ignores the penalty for travelling through **slow** terrain.
@@ -503,11 +512,20 @@ Attacks from this weapon ignore the -3 modifier for an obstructed line of sight.
 **Blast**  
 Attacks from this weapon ignore the rules for light or heavy cover.
 
+**Grenade**  
+A unit may only use one weapon with this rule per activation.
+
 **Impact**  
-A unit may make a free attack action with this weapon against a unit that it moved into **Assault Range** with this activation if it moved at least 6 inches.
+A unit may make a free attack action with this weapon against a unit that it moved into **Assault Range** with this activation if it moved at least 6 inches. A unit may not choose to make a normal attack with an **Impact** weapon.
 
 **Longshot**  
 This weapon may make an attack at up to twice its maximum range but it's Attacks attribute is reduced to 1.
 
+**Melee**  
+Weapons with this special rule may be used against enemy units within **Assault Range**.
+
 **Suppressing**  
 If an attack from this weapon hits a unit it automatically takes a suppression token, up to a maximum of 2. This does not count as the target unit evading the attack.
+
+**Unstable**  
+When making an attack with this weapon, any rolls of a 1 cause the weapon to explode, the model with this weapon is removed as a casualty.
