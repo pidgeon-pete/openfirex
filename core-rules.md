@@ -523,11 +523,11 @@ A unit may only use one weapon with this rule per activation.
 **Impact**  
 A weapon with this rule gains +1 to its **Damage Attribute** if the model moved into assault range with the enemy unit it is attacking this activation. It gains another +1 to its **Damage Attribute** for every full 6 inches it moved this turn.
 
-**Longshot**  
-This weapon may make an attack at up to twice its maximum range but it's Attacks attribute is reduced to 1.
-
 **Melee**  
 Weapons with this special rule may be used against enemy units within **Assault Range**.
+
+**Rapid Fire**  
+Weapons with this rule double their **Attacks** attribute when their target unit is within half of the weapons maximum range.
 
 **Rending**  
 Weapons with this rule automatically cause 1 damage when they hit with a Critical Success before the enemy unit rolls for Defence. This is in addition to any normal damage the attack will do.
