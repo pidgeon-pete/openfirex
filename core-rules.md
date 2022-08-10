@@ -10,6 +10,8 @@ The core rules are open source, licensed under the Creative Commons Attribution 
 
 Find out more: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
+Before getting started it is recommended to read through the entirety of this rule book, though you don't need to worry about memorising every part before playing. Section 1 details a lot of commonly used rules and conventions, Section 2 explains the structure and flow of a game, and finally Section 3 provides more advanced rules that can be skipped for your first few games.
+
 # Section 1 - Core Rules
 
 ## Getting Started
@@ -29,39 +31,47 @@ In order to play a game of Open Fire you are going to need a few things:
 
 ### Game Modules
 
-Game modules are an important concept in Open Fire, representing the other half of the game. The core rules tell you how to play, the game module provides the army lists, missions, background information, unique rules for that setting and more.
+Game Modules are an important concept in Open Fire, representing the other half of the game. The core rules tell you how to play, the Game Modules provide the army lists, missions, background information, unique rules for that setting and more.
 
-We encourage players to invent their own game modules, or to contribute to other community created ones, to cover any setting or theme that you might want to play.
+We encourage players to invent their own Game Modules, or to contribute to other community created ones, to cover any setting or theme that you might want to play.
 
 ### Resolving Issues
 
-With a game as complex as Open Fire there may be times when you are not sure on the correct way to resolve a situation. It is usually best to keep playing and agree to a simple resolution (or roll-off to see who gets to decide) to the situation and search for the correct answer after the game.
+With a game as complex as Open Fire there may be times when you are not sure on the correct way to resolve a situation. It is usually best to keep playing and agree to a simple resolution (or roll-off to see who gets to decide) and search for the correct answer after the game.
 
 ## Models and Units
 
 ### Models
 
-Whatever kind of game you are playing you will need something to represent your forces on the tabletop. Regardless of whether you use scale miniatures, paper miniatures, tokens or some other representation, as far as the rules are concerned these are all called models.
+Whatever kind of game you are playing you will need something to represent your forces on the tabletop. Regardless of whether you use scale miniatures, paper miniatures, tokens or some other representation, as far as the rules are concerned these are all called **models**.
 
-Most of the time each model represents one warrior, monster, vehicle or something similar but they may also represent a number of warriors - especially at smaller scales. Whatever is being represented, what matters is that a “model” is something that is mounted on a base, or has an easily identifiable footprint to count as its base.
+Most of the time each model represents one warrior, monster, vehicle or something similar but they may also represent a number of warriors - especially at smaller scales. Whatever is being represented, what matters is that a model is something that is mounted on a base, or has an easily identifiable footprint to count as its base.
 
-Many games will often group models together to represent squads or some other formation, and this is represented in the game as a unit. It is important to remember that every model is part of exactly one unit, even if that unit only consists of one model.
+Many games will often group models together to represent squads or some other formation, and this is represented in the game as a **unit**. It is important to remember that every model is part of exactly one unit, even if that unit only consists of one model.
 
 ### Profiles
 
-To define how your models work on the tabletop each unit will have a profile, a set of data that specifies each model’s attributes, the weapons they have, special rules that apply to them, and any other important information. You will find the profiles for different units in game modules, or army lists that go with that game module.
+To define how your models work on the tabletop each unit will have a **profile**, a set of data that specifies each model’s attributes, the weapons they have, special rules that apply to them, and any other important information. You will find the profiles for different units in Game Modules, or army lists that go with that Game Module.
 
 ### Attributes
 
-Each model in the game has a set of attributes which are detailed in the unit profile for that model.
+Each model in the game has a set of **attributes** which are detailed in the unit profile for that model.
 
-These attributes are:
+These attributes, and the abbreviation used for them, are:
 
-- [MOV] Movement Rate: The speed at which the model can move in inches.
-- [SKL] Battle Skill: The skill this model has with its weapons.
-- [DEF} Defence: The model's armour and natural toughness.
-- [CMD] Command Rating: The models ability to weather the stresses of battle.
-- [HP] Hit Points: The amount of damage a model can take.
+- **[MOV] Movement Rate**: The speed at which the model can move in inches.
+- **[SKL] Battle Skill**: The skill this model has with its weapons.
+- **[DEF] Defence**: The model's armour and natural toughness.
+- **[CMD] Command Rating**: The models ability to weather the stresses of battle.
+- **[HP] Hit Points**: The amount of damage a model can take.
+
+A models attributes may be displayed either in a table or in blocks as shown below. The blocks format is typically only used where tables cannot be displayed.
+
+| Name    | MOV | SKL | DEF | CMD | HP  | Special Rules |
+| ------- | --- | --- | --- | --- | --- | ------------- |
+| Warrior |  6  |  6  |  8  |  5  | 6   | Ambush        |
+
+**Warrior**: [MOV 6] [SKL 6] [DEF 8] [CMD 5] [HP 6] [Ambush]
 
 A unit profile will also include some information that applies to every model in the unit:
 
@@ -71,7 +81,7 @@ A unit profile will also include some information that applies to every model in
 
 ### Weapons
 
-In order to fight,  your models require weapons and these will be listed in their unit profiles. Each weapon also has its own set of attributes, which describe how it functions in the game.
+In order to fight, your models require weapons and these will be listed in their unit profiles. Each weapon also has its own set of attributes, which describe how it functions in the game.
 
 - [RNG] Range: The distance, in inches, at which the weapon can be used. A single value indicates the maximum range of a weapon, whereas a double value (such as 6-24) indicates both a minimum and maximum distance.
 - {ATT] Attacks: Represents the volume and intensity of an attack from this weapon.
@@ -79,15 +89,23 @@ In order to fight,  your models require weapons and these will be listed in thei
 - [PRC] Piercing: The weapons ability to ignore or punch through armour.
 - Special Rules: Special rules modify how the weapon works.
 
+Weapon attributes also use the table and blocks format:
+
+| Weapon | RNG | ATT | DMG | PRC | Special Rules |
+| ------ | --- | --- | --- | --- | ------------- |
+| Rifle  | 24  | 2   | 1   | 1   | Rapid Fire    |
+
+**Rifle**: [RNG 24] [ATT 2] [DMG 2] [PRC 1] [Rapid Fire]
+
 ### Leaders and Formation
 
-Every unit must have a leader model, this model does not have to be different to other models in the unit but is usually a squad leader, officer or similar. What matters is that the leader can be easily identified during play.
+Every unit must have a **leader** model, this model does not have to be different to other models in the unit but is usually a squad leader, officer or similar. What matters is that the leader can be easily identified during play and does not change during a game.
 
-The models in a unit move and fight together, staying within 4 inches of the leader model. This is known as being “in formation”. When there is intervening terrain or different height levels around the leader then models must be placed somewhere the unit leader could move to with a 4 inch move. Thus models may not be placed on the other side of walls, or on top of unclimbable terrain, etc.
+The models in a unit move and fight together, staying within 4 inches of the leader model. This is known as being in **formation**. When there is intervening terrain or different height levels around the leader then models must be placed somewhere the unit leader could move to with a 4 inch move. Thus models may not be placed on the other side of walls, or on top of unclimbable terrain, etc., if the leader model could not reach that area.
 
 ### Alignment
 
-Some rules will specify that they only affect models or units of a certain alignment. Friendly refers to any other unit or model belonging to the same player while Enemy refers to any unit or model belonging to an opposing player. Allied is only used where multiple players play on the same side with different forces. Neutral refers to any unit that is not hostile to any player.
+Some rules will specify that they only affect models or units of a certain alignment. **Friendly** refers to any other unit or model belonging to the same player while **Enemy** refers to any unit or model belonging to an opposing player. **Allied** is only used where multiple players play on the same side with different forces. **Neutral** refers to any unit that is not hostile to any player.
 
 ### Unit and Model Status
 
