@@ -4,7 +4,7 @@ Version 0.0.1
 
 ## Introduction
 
-Open Fire is an open source tabletop war game system that lets you enact battles from any setting and at any scale. This rule book provides the core rules and mechanics used when playing a game but needs to be paired with a game module to provide the setting, additional or modified rules, and army lists that let you know what kind of miniatures you can use.
+Open Fire is an open source tabletop war game system that lets you enact battles from any setting and at any scale. This rule book provides the core rules and mechanics used when playing a game but needs to be paired with a Game Module to provide the setting, additional or modified rules, and army lists that let you know what kind of miniatures you can use.
 
 The core rules are open source, licensed under the Creative Commons Attribution 4.0 International licence. This means anyone can use and modify these rules, even for commercial purposes, so long as clear attribution is given to the original version.
 
@@ -19,14 +19,13 @@ Find out more: [https://creativecommons.org/licenses/by/4.0/](https://creativeco
 In order to play a game of Open Fire you are going to need a few things:
 
 - The core rules found in this book.
-- A game module for the setting you want to play.
+- A Game Module for the setting you want to play.
 - The miniatures to represent your forces on the tabletop.
 - A space to represent your battlefield, a few square feet is enough for a small game.
 - Some terrain to fill your battlefield, even a few simple objects are enough to get started.
 - Some different coloured 12 sided dice.
 - A ruler marked in inches.
-
-The amount of time needed to play a game can vary depending on the size of game you choose to play: a small to medium game may take around an hour, with larger games taking 2 or more.
+- The amount of time needed to play a game can vary depending on the size of game you choose to play: a small to medium game may take around an hour, with larger games taking 2 or more.
 
 ### Game Modules
 
@@ -336,18 +335,11 @@ Once a unit has finished performing its actions, an activation marker should be 
 
 A unit that has accrued suppression tokens becomes less effective in battle and may stop fighting altogether. Taking a Recover action gives the unit a chance to regain their cool and keep fighting.
 
-A unit taking a Recover action makes a Command Test, rolling a dice and comparing the result to their Command Attribute. The following modifiers apply to the roll:
+If the unit **fails** the Command Test they lose one suppression token (but have still lost one of their actions this turn).
 
-- +2 if the unit is in the Assault Range of an enemy unit.
-- +1 if there are no enemy units within 6 inches.
-- +1 if there are no enemy units within 12 inches.
-- +2 if there is at least one friendly unit within 6 inches.
+If the unit **passes** the Command Test they lose one suppression token and may take one additional action this turn.
 
-If the unit fails the Command Test they lose one suppression token (but have still lost one of their actions this turn).
-
-If the unit passes the Command Test they lose one suppression token and may take one additional action this turn.
-
-If the unit passes the Command Test with a Critical Success it loses all its suppression tokens and may take one additional action this turn.
+If the unit **passes the Command Test with a Critical Success** it loses all its suppression tokens and may take one additional action this turn.
 
 ### Advance
 
@@ -395,13 +387,7 @@ The following modifiers apply to your battle skill test:
 **Make Defence Rolls**
 For each successful hit against your unit you must take a Defence test to avoid taking damage.
 
-Reduce your Defence attribute for each successful hit by the attacking weapon's Piercing attribute.
-
-There are also other modifiers which apply to your defence test:
-
-- +1 for light cover (see the section on terrain).
-- +3 for heavy cover.
-- +2 if you chose to evade the attack (see section 1)
+Your **Defence Test** is reduced by the attacking weapons **Piercing** attribute. The roll is also modified by +1 for having **Light Cover** and by +3 for **Heavy Cover**.
 
 **Calculate Wounds and Remove Casualties**
 For each failed Defence test your unit will take an amount of damage equal to the attacking weapon's Damage attribute. Calculate the total amount of damage during an attack before applying them to your unit.
@@ -469,6 +455,9 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 
 **Ambush**  
 Models with this rule may be kept off the table when players deploy their armies and scouts. Instead, starting from the second round, the player may choose this unit to activate from off the table and deploy it anywhere on the battlefield that is more than 12 inches from any enemy models.
+
+**Command**  
+Units with this ability allow friendly units within 8 inches to re-roll failed **Command Tests**.
 
 **Fast**  
 Models with this rule never have their Movement Rate modified by more than -2 in any movement action.
