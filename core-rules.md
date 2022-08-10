@@ -164,7 +164,7 @@ In the game there are two actions that allow a unit to move: the advance action 
 When moving a unit, it is just the leader model that is initially moved up to its **Movement Rate** in inches. When moving a model it is always moved in a straight line, but can stop and change direction at any point - so long as the total distance moved does not exceed the model's Movement Rate. Once the leader has been moved you may move the other members of the unit, other models are simply moved to any position that is in formation with the leader - you do not need to measure the movement of other models.
 
 A model may not voluntarily move off the board at any point during a move action and other members of a unit may not be placed off the board after the leader moves.
-A model may not move over the base of any other models except for models in the same unit.
+A model may not move over the base of any enemy models, if it moves over the base of a friendly model it must finish its move so that the bases are not overlapping.
 
 ## Terrain
 
@@ -183,16 +183,19 @@ Some types of terrain affect an area, such as rough terrain. Any terrain that af
 ### Height Levels
 
 Terrain that is climbable, has clear or other areas that models can be placed in, must have a height value. A single height level is usually around 1-2 inches in height, with the lowest level being level 0.
+
 Models moving over terrain that is the same height level, even if there are small changes in height on the model, do not count the vertical distance travelled.
 
 **Clear**
+
 This keyword applies to any area on your terrain on which models can be placed and move as normal, this is usually for walkways, the tops of hills and so on and merely indicates that models do not need to move around it. It can often be omitted where it is obvious which parts of your terrain are clear.
 
 **Impassable**
-Models cannot climb over or move through this piece of terrain (unless permitted by a special rule).
+
+Models cannot climb over or move through this piece of terrain (unless permitted by a special rule such as **fly**).
 
 **Obscuring**
-The terrain object obscures any line of sight through it (see the section on making attacks). If the terrain is not impassable then models wholly within the footprint also count as Obscured for determining line of sight.
+The terrain object obscures any line of sight through it (see the section on making attacks). If the terrain is not impassable then models wholly within the footprint also count as obscured for determining line of sight.
 
 **Light Cover**
 The terrain provides some cover but does not completely obscure the models in or behind it. Models within the footprint of Light Cover, or partly obscured by light cover during an attack, gain +1 to their Defence Tests.
