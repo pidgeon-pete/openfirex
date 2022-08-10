@@ -4,4 +4,4 @@ Welcome to Open Fire, the open source tabletop wargame system designed to let yo
 
 As this game is still actively in development, it may still be feature incomplete and have inconsistencies and errors. You could help to push this project forward. If you are interested see this discussion post:
 
-https://github.com/open-source-tabletop/openfire/discussions/1#discussion-4295354
+[Looking for Contributors](https://github.com/open-source-tabletop/openfire/discussions/1#discussion-4295354)
