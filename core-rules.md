@@ -529,8 +529,8 @@ Weapons with this special rule may be used against enemy units within **Assault 
 **Rapid Fire**  
 Weapons with this rule double their **Attacks** attribute when their target unit is within half of the weapons maximum range.
 
-**Rending**  
-Weapons with this rule automatically cause 1 damage when they hit with a Critical Success before the enemy unit rolls for Defence. This is in addition to any normal damage the attack will do.
+**Rending (X)**  
+Weapons with this rule automatically cause X damage when they hit with a Critical Success before the enemy unit rolls for Defence. This is in addition to any normal damage the attack will do.
 
 **Suppressing**  
 If an attack from this weapon hits a unit it automatically takes a suppression token, up to a maximum of 2. This does not count as the target unit evading the attack.
