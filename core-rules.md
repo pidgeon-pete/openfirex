@@ -109,7 +109,7 @@ Some rules will specify that they only affect models or units of a certain align
 
 ### Unit and Model Status
 
-During a game you will need to track a few different status and effects. These are:
+During a game you will need to track the status of a few different things for your units. These are:
 
 - Hit Points: When a model takes damage, but is not destroyed or killed, you should place a dice or marker next to it showing how many hit points it has left, typically a red dice.
 - Suppression Level: During a game a unit can become suppressed and less effective. A unit can have 1 or 2 suppression tokens or you can mark this with a dice, typically a black dice.
@@ -117,9 +117,9 @@ During a game you will need to track a few different status and effects. These a
 
 ### Armies and Points
 
-When playing a game you and your opponent will be using miniatures to fight a battle. Your miniatures, as units in the game, comprise your “army” (or gang, warband, etc).
+When playing a game you and your opponent will be using miniatures to fight a battle. Your miniatures, as units in the game, comprise your **army** (other terms such as gang, warband, etc., may be used where appropriate).
 
-You can choose the models to play your game simply by agreeing with your opponent on what feels like an interesting game. However some modules will include points and restrictions allowing you to create relatively balanced forces for a more competitive game.
+You can choose the units for your army simply by agreeing with your opponent on what feels like an interesting game. However some modules will include points and restrictions allowing you to create relatively balanced forces for a more competitive game.
 
 ## Dice and Measuring
 
@@ -129,27 +129,27 @@ Open Fire uses 12 sided dice to determine the outcome of many actions, often abb
 
 ### Attribute Tests and Roll-offs
 
-A common mechanic is a type of dice roll called an Attribute Test. Simply roll a dice and compare it to the model’s attribute. If it equals or succeeds the attribute value it is a success, if it is less than the attribute it is a failure. In addition, any roll of a 12 is considered a Critical Success and is always considered a success.
+A common mechanic is a type of dice roll called an **Attribute Test**. Simply roll a die and compare it to the model’s relevant attribute. If it equals or succeeds the attribute value it is a **success**, if it is less than the attribute it is a **failure**. In addition, any roll of a 12 is considered a **Critical Success** and is always considered a success. A critical success may also trigger additional special rules.
 
-The other type of dice roll that you typically use is called a roll-off. Both players roll a number of dice and the player that rolls the highest combined value wins the roll-off, with any ties being re-rolled.
+The other type of dice roll that you typically use is called a **roll-off**. Both players roll a die and the player that rolls the highest value wins the roll-off, with any ties being re-rolled.
 
 ### Modifiers and Re-rolls
 
-Modifiers are an important part of the game and apply to many of the rolls you make, effectively increasing or decreasing the value rolled. When multiple modifiers apply these are cumulative and the final modifier should be worked out before rolling the dice. A roll can never be modified above 12 or below 1.
+**Modifiers** are an important part of the game and apply to many of the rolls you make, effectively increasing or decreasing the value rolled. For example, a +2 modifier will turn a roll of a 6 into an 8. When multiple modifiers apply these are cumulative and the final modifier should be worked out before rolling the dice. A roll can never be modified above 12 or below 1.
 
-You may sometimes be permitted to re-roll a dice, if you do so you must take the second result even if it is worse. You may never re-roll a dice more than once.
+You may sometimes be permitted to **re-roll** a dice, if you do so you must take the second result even if it is worse and you may never re-roll a dice more than once.
 
 ### Measuring Distances
 
-To measure a distance from a model you always measure from the closest point on the base to the closest point on an object or point you are measuring to. You may measure anything at any time so long as doing so does not interfere with something your opponent is doing or unnecessarily slow down the game.
+To measure a distance from a model you always measure from the closest point on the base to the closest point on the base or footprint of the model or object you are measuring to. You may measure anything at any time so long as doing so does not interfere with something your opponent is doing or unnecessarily slow down the game.
 
 ### Within vs Wholly Within
 
-Sometimes a rule will state that something must be “within” or “wholly within” a range. A model or object is “within” a range if any part of its base is closer or equal to the specified distance. A model is “wholly within” when every part of its base is closer or equal to the specified distance.
+Sometimes a rule will state that something must be **within** or **wholly within** a range, these are subtly different terms. A model or object is within a range if any part of its base is closer or equal to the specified distance. A model is “wholly within” when every part of its base is closer or equal to the specified distance.
 
 ### Assault Range
 
-All models have an area around them within which they are an increased threat, able to attack with deadly melee or close quarters weapons. This area extends 1 inch from the edge of a model's base and is called its Assault Range.
+All models have an area around them within which they are an increased threat, able to attack with deadly melee or close quarters weapons. This area extends 1 inch from the edge of a model's base and is called its **Assault Range**. This is typically used when making an attack (see Section 2).
 
 ## Moving and Attacking
 
@@ -159,10 +159,9 @@ During a game your units will be able to perform a range of actions, some of whi
 
 ### Moving Units
 
-In the game there are three distinct movement actions: Advance, Rush, and Assault. Though they each have their own purposes they all follow these same rules for how to move your units.
-When moving a unit, it is just the leader model that is initially moved, with the remaining members of the unit then being placed in formation around it.
+In the game there are two actions that allow a unit to move: the advance action and the rush action. Though they each have their own purposes they all follow these same rules for how to move your units.
 
-The leader model may move up to its Movement Rate in inches. When moving a model it is always moved in a straight line, but can stop and change direction at any point - so long as the total distance moved does not exceed the model's Movement Rate.
+When moving a unit, it is just the leader model that is initially moved up to its **Movement Rate** in inches. When moving a model it is always moved in a straight line, but can stop and change direction at any point - so long as the total distance moved does not exceed the model's Movement Rate. Once the leader has been moved you may move the other members of the unit, other models are simply moved to any position that is in formation with the leader - you do not need to measure the movement of other models.
 
 A model may not voluntarily move off the board at any point during a move action and other members of a unit may not be placed off the board after the leader moves.
 A model may not move over the base of any other models except for models in the same unit.
