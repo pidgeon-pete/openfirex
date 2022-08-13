@@ -14,18 +14,18 @@ Find out more at https://github.com/open-source-tabletop/openfire/
 
 | Vehicle    | MOV | SKL | DEF | CMD | HP  | Special  | Points |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :------- | :----: |
-| Car        | 10  |  -  | 5   |  -  | 10  |          | 6      |
-| Sports Car | 12  |  -  | 5   |  -  | 9   | Fast     | 7      |
-| Buggy      | 9   |  -  | 7   |  -  | 8   | Off-road | 5      |
-| Truck      | 9   |  -  | 4   |  -  | 12  | Rugged   | 7      |
+| Car        | 10  |  9  | 5   |  6  | 10  |          | 6      |
+| Sports Car | 12  |  9  | 5   |  6  | 9   | Fast     | 7      |
+| Buggy      | 9   |  9  | 7   |  6  | 8   | Off-road | 5      |
+| Truck      | 9   |  9  | 4   |  6  | 12  | Rugged   | 7      |
 
 ## Driver Level
 
-| Level   | SKL | CMD | Points |
-| :------ | :-: | :-: | :----- |
-| Rookie  | 9   | 6   | 0      |
-| Warrior | 8   | 5   | 2      |
-| Legend  | 6   | 4   | 4      |
+Rookie
+
+Warrior
+
+Legend
 
 ## Weapons
 
