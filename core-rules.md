@@ -68,7 +68,7 @@ These attributes, and the abbreviation used for them, are:
 A models attributes may be displayed either in a table or in blocks as shown below. The blocks format is typically only used where tables cannot be displayed.
 
 | Name    | MOV | SKL | DEF | CMD | HP  | Special Rules |
-| ------- | --- | --- | --- | --- | --- | ------------- |
+| :------ | :-: | :-: | :-: | :-: | :-: | :------------ |
 | Warrior |  6  |  6  |  8  |  5  | 6   | Ambush        |
 
 **Warrior**: [MOV 6] [SKL 6] [DEF 8] [CMD 5] [HP 6] [Ambush]
@@ -92,7 +92,7 @@ In order to fight, your models require weapons and these will be listed in their
 Weapon attributes also use the table and blocks format:
 
 | Weapon | RNG | ATT | DMG | PRC | Special Rules |
-| ------ | --- | --- | --- | --- | ------------- |
+| :----- | :-: | :-: | :-: | :-: | :------------ |
 | Rifle  | 24  | 2   | 1   | 1   | Rapid Fire    |
 
 **Rifle**: [RNG 24] [ATT 2] [DMG 2] [PRC 1] [Rapid Fire]
